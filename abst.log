@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.7.31)  22 JUL 2016 12:59
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.8.3)  22 JUL 2016 20:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -75,109 +75,147 @@ eX Live/ChoF)
 \WF@everypar=\toks17
 Package: wrapfig 2003/01/31  v 3.6
 )
-\題目幅=\skip43
-\ヘッダ項目間隔=\skip44
-\所属インデント=\skip45
-\和文氏名インデント=\skip46
-\英文氏名インデント=\skip47
-\最小所属氏名間隔=\skip48
-\ヘッダ行間隔=\skip49
-\本文行間隔=\skip50
-\上端余白=\skip51
-\左端余白=\skip52
-\idWidth=\skip53
-\titleNoSpacing=\skip54
-\autherWidth=\skip55
-\affilWidthJ=\skip56
-\affilWidthE=\skip57
-\crAuthorJ=\count92
-\crAuthorE=\count93
-\和文氏名を右揃=\count94
-\英文氏名を右揃=\count95
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen125
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen126
+\subfiglabelskip=\skip46
+\c@subfigure=\count92
+\c@lofdepth=\count93
+\c@subtable=\count94
+\c@lotdepth=\count95
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/here/here.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count96
+\float@exts=\toks18
+\float@box=\box42
+\@float@everytoks=\toks19
+\@floatcapt=\box43
+)
+\題目幅=\skip49
+\ヘッダ項目間隔=\skip50
+\所属インデント=\skip51
+\和文氏名インデント=\skip52
+\英文氏名インデント=\skip53
+\最小所属氏名間隔=\skip54
+\ヘッダ行間隔=\skip55
+\本文行間隔=\skip56
+\上端余白=\skip57
+\左端余白=\skip58
+\idWidth=\skip59
+\titleNoSpacing=\skip60
+\autherWidth=\skip61
+\affilWidthJ=\skip62
+\affilWidthE=\skip63
+\crAuthorJ=\count97
+\crAuthorE=\count98
+\和文氏名を右揃=\count99
+\英文氏名を右揃=\count100
  (./abst.aux)
 \openout1 = `abst.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Try loading font information for U+msa on input line 137.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Try loading font information for U+msa on input line 139.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 137.
+LaTeX Font Info:    Try loading font information for U+msb on input line 139.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 138.
+(Font)              size <17.28> substituted on input line 140.
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <16> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 138.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 140.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <16> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 138.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 140.
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 138.
+(Font)              size <17.28> substituted on input line 140.
 
-LaTeX Font Info:    Calculating math sizes for size <16> on input line 138.
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 140.
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <16> not available
-(Font)              size <17.28> substituted on input line 138.
+(Font)              size <17.28> substituted on input line 140.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 138.
+(Font)              size <17.28> substituted on input line 140.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
-(Font)              size <17.28> substituted on input line 138.
+(Font)              size <17.28> substituted on input line 140.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 138.
+(Font)              size <17.28> substituted on input line 140.
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 157.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 159.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 157.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 159.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 157.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 159.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 157.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 159.
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 179.
+(Font)              using `JT1/mc/m/n' instead on input line 181.
 
 
 LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 179.
+(Font)              using `JY1/mc/m/n' instead on input line 181.
+
+File: ./small_cluster_slab.png Graphic file (type bmp)
+<./small_cluster_slab.png>
+File: ./small_cluster.eps Graphic file (type eps)
+ <./small_cluster.eps>
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 200--214
+[]$[]$ $[]$ 
+ []
 
 
-Overfull \hbox (1.39139pt too wide) in paragraph at lines 196--197
+Overfull \hbox (1.39139pt too wide) in paragraph at lines 218--219
  \JY1/gt/m/n/12 結果[] \JY1/mc/m/n/12 まず， $\OML/cmm/m/it/12 L\OT1/cmr/m/n/12
  1[]$ \JY1/mc/m/n/12 クラスタ ーがどのように分離した時に最も安定な構造をとるか
 を ， \OT1/cmr/m/n/12 small[]cluster
  []
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 199.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 221.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 199.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 221.
 [1
 
 ] (./abst.aux)
@@ -190,12 +228,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 1080 strings out of 493777
- 12874 string characters out of 6151334
- 67747 words of memory out of 5000000
- 4591 multiletter control sequences out of 15000+600000
- 24122 words of font info for 94 fonts, out of 8000000 for 9000
+ 1316 strings out of 493777
+ 16248 string characters out of 6151335
+ 72710 words of memory out of 5000000
+ 4808 multiletter control sequences out of 15000+600000
+ 24754 words of font info for 97 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 25i,4n,26p,669b,222s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,4n,26p,703b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on abst.dvi (1 page, 4684 bytes).
+Output written on abst.dvi (1 page, 5396 bytes).
