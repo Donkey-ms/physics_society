@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.8.3)  22 JUL 2016 21:41
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.7.31)  22 JUL 2016 22:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -218,7 +218,7 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 221.
 [1
 
-] (./abst.aux)
+] [2] (./abst.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
@@ -228,12 +228,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 1316 strings out of 493777
- 16248 string characters out of 6151335
+ 1315 strings out of 493777
+ 16238 string characters out of 6151334
  72710 words of memory out of 5000000
- 4808 multiletter control sequences out of 15000+600000
+ 4807 multiletter control sequences out of 15000+600000
  24754 words of font info for 97 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 25i,4n,26p,703b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,4n,26p,703b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on abst.dvi (1 page, 5404 bytes).
+Output written on abst.dvi (2 pages, 5464 bytes).
