@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.8.3)  22 JUL 2016 12:34
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.7.31)  22 JUL 2016 12:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -94,8 +94,7 @@ Package: wrapfig 2003/01/31  v 3.6
 \crAuthorE=\count93
 \和文氏名を右揃=\count94
 \英文氏名を右揃=\count95
-
-No file abst.aux.
+ (./abst.aux)
 \openout1 = `abst.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
@@ -169,25 +168,16 @@ LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
 (Font)              using `JY1/mc/m/n' instead on input line 179.
 
 
-LaTeX Warning: Citation `sakamoto' on page 1 undefined on input line 189.
-
-
-LaTeX Warning: Citation `yamamoto' on page 1 undefined on input line 189.
-
-
-LaTeX Warning: Citation `okuda' on page 1 undefined on input line 194.
-
-
-Overfull \hbox (1.39139pt too wide) in paragraph at lines 198--199
+Overfull \hbox (1.39139pt too wide) in paragraph at lines 196--197
  \JY1/gt/m/n/12 結果[] \JY1/mc/m/n/12 まず， $\OML/cmm/m/it/12 L\OT1/cmr/m/n/12
  1[]$ \JY1/mc/m/n/12 クラスタ ーがどのように分離した時に最も安定な構造をとるか
 を ， \OT1/cmr/m/n/12 small[]cluster
  []
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 201.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 199.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 201.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 199.
 [1
 
 ] (./abst.aux)
@@ -198,20 +188,14 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 1078 strings out of 493777
- 12854 string characters out of 6151335
- 68747 words of memory out of 5000000
+ 1080 strings out of 493777
+ 12874 string characters out of 6151334
+ 67747 words of memory out of 5000000
  4591 multiletter control sequences out of 15000+600000
  24122 words of font info for 94 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 25i,4n,26p,520b,222s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,4n,26p,669b,222s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on abst.dvi (1 page, 5136 bytes).
+Output written on abst.dvi (1 page, 4684 bytes).
