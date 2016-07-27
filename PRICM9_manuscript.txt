@@ -1,49 +1,23 @@
-We have performed the ....
-概要を説明すべき．
-
-We made up two senarios and assessed each step by the first principles calculations. 
-The first senario is Stacking Fault initiated. 
-In the first senario, we predicted that the solute atoms are trapped at the Stacking Fault after introduced periodically them.
-The Second senario is Solute Ordering initiated.
-In the second senario, we pridicted the Stacking Fault traps solute atoms.
-And, solute atoms are swept out from Stacking Fault and condense at the 4-layers off from the stacking fault.
-The condensed atoms initiate the next stacking faults.
+We have performed the result we investigate formation mechanism of LPSO structure.
+For that reason, We made up two senarios and assessed each step by the first principles calculations.
+The two senarios are Stacking Fault initiate and Solute Ordering initiate. 
 
 We assesed whether condensed solutions initiate Stacking Faults or not.
-This graph is Stacking Fault energy of Mg 72.
-And, This graph is Stacking Fault energy of Mg 70 Zn 1 Y 1 that Zn and Y replace with Mg at Stacking Fault layer.
 The peak of Mg 70 Zn 1 Y 1 graph is lower than the peek of Mg 72 graph.
 So, we guessed impurities like Zn and Y are the key factors introducing Stacking Faults.
 
 Next, we researched Interaction between the clusters and the solute atom.
 The solute atom is inserted in the 1st through the 6th layer separating from the cluster or the stacking fault.
-When Zn replace with Mg, the total energies don't show critical energy changes.
-But, When Y replacs with Mg, the total energies show a monotonous decrease.
-The graphs show Zn is not influenced by cluster and Y is influenced by cluster.
-influenceはどういう意図??
-And the Zn-Y pair stabilize in the same layer.
-So, Zn stabilize a long distance layer from cluster or Stacking Fault.
-ここいみふ！！
-
-ここいらから飽きた．もっと単純化しな．
-文章を削ることを考えていると，削り切れない．
-最初に，なにが必要かを大雑把にみっつほど書き出して見な．
-それを論証するのに必要なデータをみっつだけ説明して見な．
-あとの細かい話は補足で説明すればいい．
+But, When Y replaces with Mg, the total energies show a monotonous decrease.
+The graphs show Zn is not affected by cluster and Y is affected by cluster.
+But, the Zn-Y pair is stable in the same layer.
+So, Zn is stable a long distance layer from cluster or Stacking Fault too.
 
 Then we inspect cluster stability.
-First, we assesed cluster stability when some clusters exists in same layer.
-As a result, total energy is different less than 0.4eV.
-We guess clusters in same layer don't affect each other based on the result.
-
-Second, we compare cluster energys about clusters in various type of lattice.
-In this research, we calculate using model about cluster in hcp, fcc, 6H(hexagonal), 14H.
+We compare cluster energys about clusters in various type lattice.
 The atomic configuration of the cluster in hcp lattice has not been reported, thus we made up models by sliding up-half of L12 cluster.
 And, each cluster will be called type(a) and type(b).
 we got a result type(a) cluster is most unstable and type(b) cluster is most stable.
-As a result of comparing 6H with 14H, total energys have almost no difference.
-This result indicate clusters located upper and lower don't affect each other.
-And, the result shows cluster in fcc is unstable.
 
 We researched Interaction between cluster and Zn-Y pair.
 Fixed total energies show Zn-Y pair at first layer is most stable.
