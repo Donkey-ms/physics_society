@@ -36,5 +36,5 @@ Fifth, Further Zn and Y are swept out from Stacking Faults.
 These steps are repeated and LPSO structures grow vertically.
 
 But, there is possibility Stacking Fault disappear　after fourth step．
-Because, result shows cluster is stable in hcp lattice.
+Because, result shows cluster is stable in hcp lattice without Stacking Fault.
 So, we need to calculate about cluster in detail and conduct Stacking Fault changing mechanism of LPSO structure.
