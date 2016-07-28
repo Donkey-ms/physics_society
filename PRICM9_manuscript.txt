@@ -11,10 +11,6 @@ The solute atom is inserted in the 1st through the 6th layer separating from the
 When Y replaces with Mg, the total energies show a monotonous decrease.
 But the graphs show Zn is not affected by cluster and Y is affected by cluster.
 
-Because the Zn-Y pair is stablilized when locating in the same layer,
-Zn is stable a long distance layer from cluster or Stacking Fault too.
-ここわからん．
-
 Then we inspect cluster stability.
 We compared the cluster energies in various type of lattices.
 The atomic configuration of the cluster in hcp lattice has not been reported, thus we made up models by sliding of the up-half of the L12 cluster.
@@ -22,8 +18,7 @@ There are two choices of the sliding directions, called type(a) and type(b).
 We got a result type(a) cluster is most unstable and type(b) cluster is most stable.
 
 Then, we researched the interaction between the cluster and the Zn-Y pair.
-Fixed total energies show Zn-Y pair at first layer is most stable.
-But, relaxed total energies shows monotonous decrease. 
+Relaxed total energies shows monotonous decrease. 
 Results shows a strong tendency of Zn-Y pair sweeping out from the stacking fault or cluster.
 
 Results of our research don't support two senario we made up.
@@ -36,8 +31,3 @@ then in the third step, stacking fault traps Zn and Y.
 in the fouth, clusters are formed there.
 finally, further Zn and Y are swept out from stacking faults.
 These steps are repeated and LPSO structures grow vertically.
-
-But, there is possibility Stacking Fault disappear　after fourth step．
-Because, result shows cluster is stable in hcp lattice without Stacking Fault.
-So, we need to calculate about cluster in detail and conduct Stacking Fault changing mechanism of LPSO structure.
-ここいみふ．
