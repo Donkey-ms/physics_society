@@ -1,0 +1,50 @@
+Our aim is to reveal the formation mechanism of LPSO structure.
+For that purpose, we made up two senarios and assessed each step by the first principles calculations.
+Two senarios are the stacking fault initiation and the solute ordering initiation. 
+
+We assesed whether condensed solute atoms initiate the stacking faults or not.
+When we performed the sliding one layer from hcp stacking to fcc stacking, the peak of Mg 70 Zn 1 Y 1 graph is lower than that of Mg 72 graph.
+So, we guessed impurities like Zn and Y are the accelerating factor for the introducing of the stacking faults.
+
+Next, we researched the interaction between the L12 clusters and the solute atom.
+The solute atom is inserted in the 1st through the 6th layer separating from the cluster or the stacking fault.
+When Y replaces with Mg, the total energies show a monotonous decrease.
+But the graphs show Zn is not affected by cluster and Y is affected by cluster.
+
+Then, we researched the interaction between the cluster and the Zn-Y pair.
+Relaxed total energies shows monotonous decrease. 
+Results shows a strong tendency of Zn-Y pair sweeping out from the stacking fault or cluster.
+
+The results support a prediction that the solute atoms are trapped Stacking Fault and initiate Stacking Fault. 
+But, energy changes show monotonous decrease. The results don't show the middle range ordering of the clusters.
+
+Therefore, we pay attention to Small_Cluster.
+Kiyohara et al. have reported that a L12 like cluster embedded in hcp lattice shows the unique relaxed structure which is almost split in two smaller clusters.
+We call the structure Small_Cluster.
+For making smaller clusters, we divide an L1  cluster vertically or horizontally like (a) or (b).
+Then we insert the small cluster in hcp Mg with the 6 layers.
+The first principle calculations show that (a) type cluster shows 0.2 eV lower energy than (b) type cluster.
+The energy change is not a monotounous tendency but the slight minimum at the middle range of 4-5 layers.
+This minimum induces the middle range ordering of the clusters.
+We place Small_Cluster various positions and inspect energy change about first principle calculation.
+The energy changes show same monotounous tendency.
+
+So, we modified senario.
+At first, Zn and Y pair stayed in same stacking layer.
+in the second, Condensed Zn and Y induces Stacking Fault.
+then in the third step, stacking fault traps Zn and Y.
+in the fouth, clusters are formed there.
+finally, further Zn and Y are swept out from stacking faults.
+These steps are repeated and LPSO structures grow vertically.
+
+
+
+
+
+
+
+Then we inspect cluster stability.
+We compared the cluster energies in various type of lattices.
+The atomic configuration of the cluster in hcp lattice has not been reported, thus we made up models by sliding of the up-half of the L12 cluster.
+There are two choices of the sliding directions, called type(a) and type(b).
+We got a result type(a) cluster is most unstable and type(b) cluster is most stable.
