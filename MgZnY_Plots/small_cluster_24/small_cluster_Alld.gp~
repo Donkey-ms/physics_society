@@ -2,7 +2,7 @@ set xtics 1
 set ytics 0.1 nomirror
 
 set yl "Total energy of 24R[eV]"
-set xl "distance from cluster[layer]"
+set xl "Inter distance from cluster[layer]"
 
 set xl offset 0,-1
 set yl offset -4.3, 0
