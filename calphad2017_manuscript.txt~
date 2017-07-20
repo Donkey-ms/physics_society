@@ -14,23 +14,22 @@ Results shows a strong tendency of Zn-Y pair sweeping out from the stacking faul
 The results support a prediction that the solute atoms are trapped Stacking Fault and initiate Stacking Fault. 
 But, energy changes show monotonous decrease. The results don't show the middle range ordering of the clusters.
 
-Therefore, we pay attention to Small_Cluster.
-Kiyohara et al. have reported that a L12 like cluster embedded in hcp lattice shows the unique relaxed structure which is almost split in two smaller clusters.
-We call the structure Small_Cluster.
-For making smaller clusters, we divide an L1  cluster vertically or horizontally like (a) or (b).
-Then we insert the small cluster in hcp Mg with the 6 layers.
+Therefore, we pay attention to Mini_Cluster.
+Kiyohara et al. have reported that a L12 like cluster embedded in hcp lattice shows the unique relaxed structure which is almost split in two minier clusters.
+We call the structure Mini_Cluster.
+For making minier clusters, we divide an L12  cluster vertically or horizontally like (a) or (b).
+Then we insert the mini cluster in hcp Mg with the 6 layers.
 The first principle calculations show that (a) type cluster shows 0.2 eV lower energy than (b) type cluster.
 The energy change is not a monotounous tendency but the slight minimum at the middle range of 4-5 layers.
 This minimum induces the middle range ordering of the clusters.
-We place Small_Cluster various positions and inspect energy change about first principle calculation.
+We place Mini_Cluster various positions and inspect energy change about first principle calculation.
 The energy changes show same monotounous tendency.
 
-Also, We discussed how solutions spread, and devise solutions spread mechanism by vacancy diffusion.
+Also, We discussed how cluster move, and devise cluster spread mechanism by vacancy diffusion.
 For revealing kinetics of the solute movement,
-we calculate the stability of the vacancy around the small cluster.
-We except vacancy is stable near small cluster.
-But,  against exceptations,the result of calculation 
-when vacancy is inserted far position shows low energy.
+we calculate the stability of the vacancy around the mini cluster.
+We except vacancy is stable near mini cluster.
+But,  against exceptations,the result of calculation when vacancy is inserted far position shows low energy.
 The results don't show possibility of vacancy diffusion.
 So, we need to inspect again by calculating about multi-vacancies.
 

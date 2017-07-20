@@ -1,0 +1,7 @@
+For revealing kinetics of the solute movement,
+we calculate the stability of the vacancy around the small cluster.
+We except vacancy is stable near small cluster.
+But,  against exceptations,the result of calculation 
+when vacancy is inserted far position shows low energy.
+The results don't show possibility of vacancy diffusion.
+So, we need to inspect again by calculating about multi-vacancies.
